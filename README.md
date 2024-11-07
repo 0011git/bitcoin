@@ -250,7 +250,7 @@
 
 ### 2. 헤더, 푸터, 네비게이션 바
 #### (1) 헤더
-- 라우팅에 따라 ```switch~case```로 페이지 별 헤더 노출
+- 라우팅에 따라 ```switch~case```로 페이지별 헤더 노출
 
 - 메인
   
@@ -264,6 +264,17 @@
 
 ![header3](https://github.com/user-attachments/assets/29c51c22-f4be-4bd7-8504-2a949faadb40)
 
+- 마이 페이지
+
+![header4](https://github.com/user-attachments/assets/92327f1c-b3c9-4570-a5d9-bd02fb57b092)
+
+![header5](https://github.com/user-attachments/assets/0f792406-f4ea-4c63-9624-d77343dc2cbe)
+
+![header6](https://github.com/user-attachments/assets/3808f102-1a46-419e-891c-fcdfd4878758)
+
+![header7](https://github.com/user-attachments/assets/6cae76f6-367b-489b-a700-fc53e1daaf7c)
+
+![header8](https://github.com/user-attachments/assets/4d8f7fad-970c-4518-ad7a-3af010ae8711)
 
 
 #### (2) 푸터
